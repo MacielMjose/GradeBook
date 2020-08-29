@@ -1,0 +1,17 @@
+/home/macielmjose/Documentos/C_Sharp/GradeBookProject/obj/Debug/netcoreapp3.1/GradeBookProject.csprojAssemblyReference.cache
+/home/macielmjose/Documentos/C_Sharp/GradeBookProject/obj/Debug/netcoreapp3.1/GradeBookProject.AssemblyInfoInputs.cache
+/home/macielmjose/Documentos/C_Sharp/GradeBookProject/obj/Debug/netcoreapp3.1/GradeBookProject.AssemblyInfo.cs
+/home/macielmjose/Documentos/C_Sharp/GradeBookProject/obj/Debug/netcoreapp3.1/GradeBookProject.csproj.CoreCompileInputs.cache
+/home/macielmjose/Documentos/C_Sharp/GradeBookProject/src/main/bin/Debug/netcoreapp3.1/GradeBookProject
+/home/macielmjose/Documentos/C_Sharp/GradeBookProject/src/main/bin/Debug/netcoreapp3.1/GradeBookProject.deps.json
+/home/macielmjose/Documentos/C_Sharp/GradeBookProject/src/main/bin/Debug/netcoreapp3.1/GradeBookProject.runtimeconfig.json
+/home/macielmjose/Documentos/C_Sharp/GradeBookProject/src/main/bin/Debug/netcoreapp3.1/GradeBookProject.runtimeconfig.dev.json
+/home/macielmjose/Documentos/C_Sharp/GradeBookProject/src/main/bin/Debug/netcoreapp3.1/GradeBookProject.dll
+/home/macielmjose/Documentos/C_Sharp/GradeBookProject/src/main/bin/Debug/netcoreapp3.1/GradeBookProject.pdb
+/home/macielmjose/Documentos/C_Sharp/GradeBookProject/src/main/obj/Debug/netcoreapp3.1/GradeBookProject.csprojAssemblyReference.cache
+/home/macielmjose/Documentos/C_Sharp/GradeBookProject/src/main/obj/Debug/netcoreapp3.1/GradeBookProject.AssemblyInfoInputs.cache
+/home/macielmjose/Documentos/C_Sharp/GradeBookProject/src/main/obj/Debug/netcoreapp3.1/GradeBookProject.AssemblyInfo.cs
+/home/macielmjose/Documentos/C_Sharp/GradeBookProject/src/main/obj/Debug/netcoreapp3.1/GradeBookProject.csproj.CoreCompileInputs.cache
+/home/macielmjose/Documentos/C_Sharp/GradeBookProject/src/main/obj/Debug/netcoreapp3.1/GradeBookProject.dll
+/home/macielmjose/Documentos/C_Sharp/GradeBookProject/src/main/obj/Debug/netcoreapp3.1/GradeBookProject.pdb
+/home/macielmjose/Documentos/C_Sharp/GradeBookProject/src/main/obj/Debug/netcoreapp3.1/GradeBookProject.genruntimeconfig.cache
