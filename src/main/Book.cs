@@ -5,21 +5,21 @@ namespace GradeBookProject{
 
     public class Book{
 
-        private string nome;
+        public string Name;
         private string id;
-        private double grade;
+        private List<double> grades;
         
 
         public Book(string nome){
-            this.nome = nome;
+            Name = nome;
+            grades = new List<double>();
         }
 
         public string getName(){
-            return this.nome;
+            return this.Name;
         }
         public void addGrade(double grade){
-            this.grade = grade;
-            grades.Add(this.grade);
+            grades.Add(grade);
         }
 
         public Statistics getStatistics(){
@@ -49,6 +49,6 @@ namespace GradeBookProject{
 
             return avg/grades.Count;
         }
-        List<double>grades = new List<double>();
+        
     }
 }
